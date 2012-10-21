@@ -1,0 +1,25 @@
+{
+  "name": "hashPass",
+  "version": "0.0.0",
+  "description": "Super basic, super opinionated utility for dealing with passwords.",
+  "main": "hashPass.js",
+  "scripts": {
+    "test": "coffee testHash.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidbanham/hashPass.git"
+  },
+  "keywords": [
+    "password",
+    "salt"
+  ],
+  "author": "David Banham",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "~1.3.3"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.3.3"
+  }
+}
