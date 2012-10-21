@@ -1,3 +1,7 @@
+install
+=====
+npm install hashpass
+
 usage
 =====
 ```coffeescript
