@@ -1,5 +1,5 @@
 {
-  "name": "hashPass",
+  "name": "hashpass",
   "version": "0.0.0",
   "description": "Super basic, super opinionated utility for dealing with passwords.",
   "main": "hashPass.js",
